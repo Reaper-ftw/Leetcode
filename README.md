@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Reaper-ftw/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
