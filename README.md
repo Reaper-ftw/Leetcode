@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Reaper-ftw/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Reaper-ftw/Leetcode/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Reaper-ftw/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Reaper-ftw/Leetcode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
