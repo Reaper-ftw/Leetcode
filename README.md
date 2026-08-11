@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Reaper-ftw/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reaper-ftw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Reaper-ftw/Leetcode/tree/master/0136-single-number) |
 | [0912-sort-an-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Reaper-ftw/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Reaper-ftw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Reaper-ftw/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Reaper-ftw/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
