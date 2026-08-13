@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reaper-ftw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Reaper-ftw/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Reaper-ftw/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Reaper-ftw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0912-sort-an-array](https://github.com/Reaper-ftw/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Reaper-ftw/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Reaper-ftw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Reaper-ftw/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Reaper-ftw/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Reaper-ftw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
